@@ -1,17 +1,4 @@
-{
-  "Collections": [
-    {
-      "name": "Abstract Geometric",
-      "preview_url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_01.jpg",
-      "preview_thumbnail_url": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_01-min.jpg"
-    },
-    {
-      "name": "Nature",
-      "preview_url": "https://github.com/fluxesto/Nature/raw/master/nature_01.jpg",
-      "preview_thumbnail_url": "https://github.com/fluxesto/Nature-Thumb/raw/master/nature_01-min.jpg"
-    }
-  ],
-"Wallpapers": [
+[
    {
       "name": "Abstract 01",
       "author": "Subham Saha",
@@ -245,4 +232,3 @@
       "downloadable": true
     }
   ]
-}
