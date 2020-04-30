@@ -1,0 +1,248 @@
+{
+  "Collections": [
+    {
+      "name": "Abstract Geometric",
+      "preview_url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_01.jpg",
+      "preview_thumbnail_url": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_01-min.jpg"
+    },
+    {
+      "name": "Nature",
+      "preview_url": "https://github.com/fluxesto/Nature/raw/master/nature_01.jpg",
+      "preview_thumbnail_url": "https://github.com/fluxesto/Nature-Thumb/raw/master/nature_01-min.jpg"
+    }
+  ],
+"Wallpapers": [
+   {
+      "name": "Abstract 01",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_01.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_01-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+     {
+      "name": "Abstract 02",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_02.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_02-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 03",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_03.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_03-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 04",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_04.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_04-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 05",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_05.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_05-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 06",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_06.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_06-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 07",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_07.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_07-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 08",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_08.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_08-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 09",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_09.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_09-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 10",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_10.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_10-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 11",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_11.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_11-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 12",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_12.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_12-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 13",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_13.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_13-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 14",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_14.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_14-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 15",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_15.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_15-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 16",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_16.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_16-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 17",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_17.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_17-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 18",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_18.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_18-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 19",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_19.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_19-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Abstract 20",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Abstract-Geometric/raw/master/abstract_20.jpg",
+      "thumbnail": "https://github.com/fluxesto/Abstract-Geometric-Thumb/raw/master/abstract_20-min.jpg",
+      "collections": "Abstract Geometric",
+      "downloadable": true
+    },
+    {
+      "name": "Nature 01",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Nature/raw/master/nature_01.jpg",
+      "thumbnail": "https://github.com/fluxesto/Nature-Thumb/raw/master/nature_01-min.jpg",
+      "collections": "Nature",
+      "downloadable": true
+    },
+    {
+      "name": "Nature 02",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Nature/raw/master/nature_02.jpg",
+      "thumbnail": "https://github.com/fluxesto/Nature-Thumb/raw/master/nature_02-min.jpg",
+      "collections": "Nature",
+      "downloadable": true
+    },
+    {
+      "name": "Nature 03",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Nature/raw/master/nature_03.jpg",
+      "thumbnail": "https://github.com/fluxesto/Nature-Thumb/raw/master/nature_03-min.jpg",
+      "collections": "Nature",
+      "downloadable": true
+    },
+    {
+      "name": "Nature 04",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Nature/raw/master/nature_04.jpg",
+      "thumbnail": "https://github.com/fluxesto/Nature-Thumb/raw/master/nature_04-min.jpg",
+      "collections": "Nature",
+      "downloadable": true
+    },
+    {
+      "name": "Nature 05",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Nature/raw/master/nature_05.jpg",
+      "thumbnail": "https://github.com/fluxesto/Nature-Thumb/raw/master/nature_05-min.jpg",
+      "collections": "Nature",
+      "downloadable": true
+    },
+    {
+      "name": "Nature 06",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Nature/raw/master/nature_06.jpg",
+      "thumbnail": "https://github.com/fluxesto/Nature-Thumb/raw/master/nature_06-min.jpg",
+      "collections": "Nature",
+      "downloadable": true
+    },
+    {
+      "name": "Nature 07",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Nature/raw/master/nature_07.jpg",
+      "thumbnail": "https://github.com/fluxesto/Nature-Thumb/raw/master/nature_07-min.jpg",
+      "collections": "Nature",
+      "downloadable": true
+    },
+    {
+      "name": "Nature 08",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Nature/raw/master/nature_08.jpg",
+      "thumbnail": "https://github.com/fluxesto/Nature-Thumb/raw/master/nature_08-min.jpg",
+      "collections": "Nature",
+      "downloadable": true
+    },
+    {
+      "name": "Nature 09",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Nature/raw/master/nature_09.jpg",
+      "thumbnail": "https://github.com/fluxesto/Nature-Thumb/raw/master/nature_09-min.jpg",
+      "collections": "Nature",
+      "downloadable": true
+    }
+  ]
+}
