@@ -159,6 +159,102 @@
       "collections": "Abstract Geometric",
       "downloadable": true
     },
+   {
+      "name": "Desert 01",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Desert/raw/master/desert_01.jpg",
+      "thumbnail": "https://github.com/fluxesto/Desert-Thumb/raw/master/desert_01-min.jpg",
+      "collections": "Desert",
+      "downloadable": true
+    },
+{
+      "name": "Desert 02",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Desert/raw/master/desert_02.jpg",
+      "thumbnail": "https://github.com/fluxesto/Desert-Thumb/raw/master/desert_02-min.jpg",
+      "collections": "Desert",
+      "downloadable": true
+    },
+{
+      "name": "Desert 03",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Desert/raw/master/desert_03.jpg",
+      "thumbnail": "https://github.com/fluxesto/Desert-Thumb/raw/master/desert_03-min.jpg",
+      "collections": "Desert",
+      "downloadable": true
+    },
+{
+      "name": "Desert 04",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Desert/raw/master/desert_04.jpg",
+      "thumbnail": "https://github.com/fluxesto/Desert-Thumb/raw/master/desert_04-min.jpg",
+      "collections": "Desert",
+      "downloadable": true
+    },
+{
+      "name": "Desert 05",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Desert/raw/master/desert_05.jpg",
+      "thumbnail": "https://github.com/fluxesto/Desert-Thumb/raw/master/desert_05-min.jpg",
+      "collections": "Desert",
+      "downloadable": true
+    },
+{
+      "name": "Desert 06",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Desert/raw/master/desert_06.jpg",
+      "thumbnail": "https://github.com/fluxesto/Desert-Thumb/raw/master/desert_06-min.jpg",
+      "collections": "Desert",
+      "downloadable": true
+    },
+{
+      "name": "Desert 07",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Desert/raw/master/desert_07.jpg",
+      "thumbnail": "https://github.com/fluxesto/Desert-Thumb/raw/master/desert_07-min.jpg",
+      "collections": "Desert",
+      "downloadable": true
+    },
+{
+      "name": "Desert 08",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Desert/raw/master/desert_08.jpg",
+      "thumbnail": "https://github.com/fluxesto/Desert-Thumb/raw/master/desert_08-min.jpg",
+      "collections": "Desert",
+      "downloadable": true
+    },
+{
+      "name": "Desert 09",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Desert/raw/master/desert_09.jpg",
+      "thumbnail": "https://github.com/fluxesto/Desert-Thumb/raw/master/desert_09-min.jpg",
+      "collections": "Desert",
+      "downloadable": true
+    },
+{
+      "name": "Desert 10",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Desert/raw/master/desert_10.jpg",
+      "thumbnail": "https://github.com/fluxesto/Desert-Thumb/raw/master/desert_10-min.jpg",
+      "collections": "Desert",
+      "downloadable": true
+    },
+{
+      "name": "Desert 11",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Desert/raw/master/desert_11.jpg",
+      "thumbnail": "https://github.com/fluxesto/Desert-Thumb/raw/master/desert_11-min.jpg",
+      "collections": "Desert",
+      "downloadable": true
+    },
+{
+      "name": "Desert 12",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Desert/raw/master/desert_12.jpg",
+      "thumbnail": "https://github.com/fluxesto/Desert-Thumb/raw/master/desert_12-min.jpg",
+      "collections": "Desert",
+      "downloadable": true
+    },
     {
       "name": "Nature 01",
       "author": "Subham Saha",
