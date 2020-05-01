@@ -230,5 +230,117 @@
       "thumbnail": "https://github.com/fluxesto/Nature-Thumb/raw/master/nature_09-min.jpg",
       "collections": "Nature",
       "downloadable": true
+    },
+   {
+      "name": "Autumn 01",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/autumn_01.jpg",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/autumn_01-min.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Autumn 02",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/autumn_02.jpg",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/autumn_02-min.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Autumn 03",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/autumn_03.jpg",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/autumn_03-min.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Autumn 04",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/autumn_04.jpg",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/autumn_04-min.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Autumn 05",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/autumn_05.jpg",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/autumn_05-min.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Autumn 06",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/autumn_06.jpg",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/autumn_06-min.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Winter 01",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/winter_01.jpg",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_01-min.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Winter 02",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/winter_02.jpg",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_02-min.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Winter 03",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/winter_03.jpg",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_03-min.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Winter 04",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/winter_04.jpg",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_04-min.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Winter 05",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/winter_05.jpg",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_05-min.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Winter 06",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/winter_06.jpg",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_06-min.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Winter 07",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/winter_07.jpg",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_07-min.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Winter 08",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/winter_08.jpg",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_08-min.jpg",
+      "collections": "Seasons",
+      "downloadable": true
     }
   ]
