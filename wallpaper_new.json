@@ -312,7 +312,8 @@
       "thumbnail": "https://github.com/fluxesto/Minimalistic-Thumb/raw/master/minimal_45.png",
       "collections": "Minimalistic",
       "dimensions": "3000 x 6000 px",
-      "do
+      "downloadable": true
+    },
 {
       "name": "Minimalistic 46",
       "author": "Subham Saha",
