@@ -1,10 +1,81 @@
 [
    {
-      "name": "Outline 01",
+      "name": "Bilfy 01",
       "author": "Subham Saha",
-      "url": "https://github.com/fluxesto/Outline-Pastel/raw/master/outline_01.png",
-      "thumbnail": "https://github.com/fluxesto/Outline-Pastel-Thumb/raw/master/outline_01.png",
-      "collections": "Outline Pastel",
+      "url": "https://github.com/fluxesto/Bilfy/raw/master/bilfy_01.png",
+      "thumbnail": "https://github.com/fluxesto/Bilfy-Thumb/raw/master/bilfy_01.png",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+   {
+      "name": "Bilfy 02",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Bilfy/raw/master/bilfy_02.png",
+      "thumbnail": "https://github.com/fluxesto/Bilfy-Thumb/raw/master/bilfy_02.png",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+   {
+      "name": "Bilfy 03",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Bilfy/raw/master/bilfy_03.png",
+      "thumbnail": "https://github.com/fluxesto/Bilfy-Thumb/raw/master/bilfy_03.png",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+   {
+      "name": "Bilfy 04",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Bilfy/raw/master/bilfy_04.png",
+      "thumbnail": "https://github.com/fluxesto/Bilfy-Thumb/raw/master/bilfy_04.png",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+   {
+      "name": "Bilfy 05",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Bilfy/raw/master/bilfy_05.png",
+      "thumbnail": "https://github.com/fluxesto/Bilfy-Thumb/raw/master/bilfy_05.png",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+   {
+      "name": "Bilfy 06",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Bilfy/raw/master/bilfy_06.png",
+      "thumbnail": "https://github.com/fluxesto/Bilfy-Thumb/raw/master/bilfy_06.png",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+   {
+      "name": "Bilfy 07",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Bilfy/raw/master/bilfy_07.png",
+      "thumbnail": "https://github.com/fluxesto/Bilfy-Thumb/raw/master/bilfy_07.png",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+   {
+      "name": "Bilfy 08",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Bilfy/raw/master/bilfy_08.png",
+      "thumbnail": "https://github.com/fluxesto/Bilfy-Thumb/raw/master/bilfy_08.png",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+   {
+      "name": "Bilfy 09",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Bilfy/raw/master/bilfy_09.png",
+      "thumbnail": "https://github.com/fluxesto/Bilfy-Thumb/raw/master/bilfy_09.png",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+   {
+      "name": "Bilfy 10",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Bilfy/raw/master/bilfy_10.png",
+      "thumbnail": "https://github.com/fluxesto/Bilfy-Thumb/raw/master/bilfy_10.png",
       "dimensions": "3000 x 6000 px",
       "downloadable": true
     }
