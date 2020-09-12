@@ -1,0 +1,130 @@
+{
+    "news": [
+        {
+      "title": "500 Followers !!! Thank You Everyone.",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_1.png"
+    },
+    {
+      "title": "WallLet App Icon is made by Subham Saha",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_2.png"
+    },
+    {
+      "title": "Pixurr Wallpapers in Now on SALE !!!",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_3.png"
+    },
+   {
+      "title": "BILFY and Pixcards are Now on SALE !!!",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_4.png"
+    },
+   {
+      "title": "Pixcards new update !!!",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_5.png"
+    }
+    ],
+    "wallpapers": [
+        {
+      "title": "500 Followers !!! Thank You Everyone.",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_1.png"
+    },
+    {
+      "title": "WallLet App Icon is made by Subham Saha",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_2.png"
+    },
+    {
+      "title": "Pixurr Wallpapers in Now on SALE !!!",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_3.png"
+    },
+   {
+      "title": "BILFY and Pixcards are Now on SALE !!!",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_4.png"
+    },
+   {
+      "title": "Pixcards new update !!!",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_5.png"
+    }
+    ],
+    "icons": [
+        {
+      "title": "500 Followers !!! Thank You Everyone.",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_1.png"
+    },
+    {
+      "title": "WallLet App Icon is made by Subham Saha",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_2.png"
+    },
+    {
+      "title": "Pixurr Wallpapers in Now on SALE !!!",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_3.png"
+    },
+   {
+      "title": "BILFY and Pixcards are Now on SALE !!!",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_4.png"
+    },
+   {
+      "title": "Pixcards new update !!!",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_5.png"
+    }
+    ],
+    "widgets": [
+        {
+      "title": "500 Followers !!! Thank You Everyone.",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_1.png"
+    },
+    {
+      "title": "WallLet App Icon is made by Subham Saha",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_2.png"
+    },
+    {
+      "title": "Pixurr Wallpapers in Now on SALE !!!",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_3.png"
+    },
+   {
+      "title": "BILFY and Pixcards are Now on SALE !!!",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_4.png"
+    },
+   {
+      "title": "Pixcards new update !!!",
+      "description": "This is a description. Thank You For the news app",
+      "url": "https://github.com/fluxesto/json/raw/master/warning1.jpg",
+      "image": "https://github.com/fluxesto/News/raw/master/news_5.png"
+    }
+    ]
+}
