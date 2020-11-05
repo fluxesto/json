@@ -1,5 +1,140 @@
 [
    {
+      "name": "Batman",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Creator-Choice/raw/main/batman.jpg",
+      "thumbnail": "https://github.com/fluxesto/Creator-Choice-Thumb/raw/main/batman.jpg",
+      "collections": "Creator's Choice",
+      "dimensions": "2000 x 4000 px",
+      "downloadable": true
+    },
+{
+      "name": "Bulbasaur",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Creator-Choice/raw/main/bulbasaur.jpg",
+      "thumbnail": "https://github.com/fluxesto/Creator-Choice-Thumb/raw/main/bulbasaur.jpg",
+      "collections": "Creator's Choice",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+{
+      "name": "Memes",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Creator-Choice/raw/main/memes.jpg",
+      "thumbnail": "https://github.com/fluxesto/Creator-Choice-Thumb/raw/main/memes.jpg",
+      "collections": "Creator's Choice",
+      "dimensions": "2000 x 4000 px",
+      "downloadable": true
+    },
+{
+      "name": "Noised Landscape Green",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Creator-Choice/raw/main/noised_landscape_green.jpg",
+      "thumbnail": "https://github.com/fluxesto/Creator-Choice-Thumb/raw/main/noised_landscape_green.jpg",
+      "collections": "Creator's Choice",
+      "dimensions": "2000 x 4000 px",
+      "downloadable": true
+    },
+{
+      "name": "Noised Landscape Purple",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Creator-Choice/raw/main/noised_landscape_purple.jpg",
+      "thumbnail": "https://github.com/fluxesto/Creator-Choice-Thumb/raw/main/noised_landscape_purple.jpg",
+      "collections": "Creator's Choice",
+      "dimensions": "2000 x 4000 px",
+      "downloadable": true
+    },
+   {
+      "name": "Faceoff 01",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Faceoff/raw/main/faceoff_01.png",
+      "thumbnail": "https://github.com/fluxesto/Faceoff-Thumb/raw/main/faceoff_01.png",
+      "collections": "Faceoff",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+{
+      "name": "Faceoff 02",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Faceoff/raw/main/faceoff_02.png",
+      "thumbnail": "https://github.com/fluxesto/Faceoff-Thumb/raw/main/faceoff_02.png",
+      "collections": "Faceoff",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+{
+      "name": "Faceoff 03",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Faceoff/raw/main/faceoff_03.png",
+      "thumbnail": "https://github.com/fluxesto/Faceoff-Thumb/raw/main/faceoff_03.png",
+      "collections": "Faceoff",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+{
+      "name": "Faceoff 04",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Faceoff/raw/main/faceoff_04.png",
+      "thumbnail": "https://github.com/fluxesto/Faceoff-Thumb/raw/main/faceoff_04.png",
+      "collections": "Faceoff",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+{
+      "name": "Faceoff 05",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Faceoff/raw/main/faceoff_05.png",
+      "thumbnail": "https://github.com/fluxesto/Faceoff-Thumb/raw/main/faceoff_05.png",
+      "collections": "Faceoff",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+{
+      "name": "Faceoff 06",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Faceoff/raw/main/faceoff_06.png",
+      "thumbnail": "https://github.com/fluxesto/Faceoff-Thumb/raw/main/faceoff_06.png",
+      "collections": "Faceoff",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+{
+      "name": "Faceoff 07",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Faceoff/raw/main/faceoff_07.png",
+      "thumbnail": "https://github.com/fluxesto/Faceoff-Thumb/raw/main/faceoff_07.png",
+      "collections": "Faceoff",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+{
+      "name": "Faceoff 08",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Faceoff/raw/main/faceoff_08.png",
+      "thumbnail": "https://github.com/fluxesto/Faceoff-Thumb/raw/main/faceoff_08.png",
+      "collections": "Faceoff",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+{
+      "name": "Faceoff 09",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Faceoff/raw/main/faceoff_09.png",
+      "thumbnail": "https://github.com/fluxesto/Faceoff-Thumb/raw/main/faceoff_09.png",
+      "collections": "Faceoff",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+{
+      "name": "Faceoff 10",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Faceoff/raw/main/faceoff_10.png",
+      "thumbnail": "https://github.com/fluxesto/Faceoff-Thumb/raw/main/faceoff_10.png",
+      "collections": "Faceoff",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+   {
       "name": "Halloween 01",
       "author": "Subham Saha",
       "url": "https://github.com/fluxesto/Halloween/raw/main/halloween_01.png",
