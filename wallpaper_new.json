@@ -1,5 +1,101 @@
 [
    {
+      "name": "Winter 09",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/winter_09.png",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_09.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Winter 10",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/winter_10.png",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_10.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Winter 11",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/winter_11.png",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_11.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Winter 12",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/winter_12.png",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_12.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+{
+      "name": "Winter 13",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Seasons/raw/master/winter_13.png",
+      "thumbnail": "https://github.com/fluxesto/Seasons-Thumb/raw/master/winter_13.jpg",
+      "collections": "Seasons",
+      "downloadable": true
+    },
+   {
+      "name": "Christmas 19",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Christmas/raw/main/christmas_19.png",
+      "thumbnail": "https://github.com/fluxesto/Christmas-Thumb/raw/main/christmas_19.jpg",
+      "collections": "Festival",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+{
+      "name": "Christmas 20",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Christmas/raw/main/christmas_20.png",
+      "thumbnail": "https://github.com/fluxesto/Christmas-Thumb/raw/main/christmas_20.jpg",
+      "collections": "Festival",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+{
+      "name": "Christmas 21",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Christmas/raw/main/christmas_21.png",
+      "thumbnail": "https://github.com/fluxesto/Christmas-Thumb/raw/main/christmas_21.jpg",
+      "collections": "Festival",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+
+{
+      "name": "Christmas 22",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Christmas/raw/main/christmas_22.png",
+      "thumbnail": "https://github.com/fluxesto/Christmas-Thumb/raw/main/christmas_22.jpg",
+      "collections": "Festival",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+
+{
+      "name": "Christmas 23",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Christmas/raw/main/christmas_23.png",
+      "thumbnail": "https://github.com/fluxesto/Christmas-Thumb/raw/main/christmas_23.jpg",
+      "collections": "Festival",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+{
+      "name": "Christmas 24",
+      "author": "Subham Saha",
+      "url": "https://github.com/fluxesto/Christmas/raw/main/christmas_24.png",
+      "thumbnail": "https://github.com/fluxesto/Christmas-Thumb/raw/main/christmas_24.jpg",
+      "collections": "Festival",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+   {
       "name": "Gradient 42",
       "author": "Subham Saha",
       "url": "https://github.com/fluxesto/Gradient/raw/master/gradient_42.png",
